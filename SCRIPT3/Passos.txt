@@ -1,0 +1,25 @@
+Desafio da Automação
+Vence hoje às 23:59
+
+Instruções
+Criando diretórios para usuários de rede
+
+Criar as pastas de cada um dos novos colaboradores a partir da lista disponibilizada pelo RH.
+O padrão de nome para as pastas é formado pelo primeiro e ultimo nome separados por um -.
+Exemplo:
+
+Israel Nuncio Dias Lucania
+
+Nome da pasta: ISRAEL-LUCANIA
+
+
+Importante:
+
+- Todas as pastas devem ser criadas dentro do diretório REDE que deve estar na unidade C:
+- Os nomes das pastas devem ser criados com letras maiúsculas
+- Todo o processo deve ser feito através de script, e ao finalizar o script, todas as pastas criadas devem ser exibidas em formato de lista no seu terminal
+- Esse processo deverá ser criado com a utilização do arquivos de lote, no caso do prompt de comando do Windows e arquivos .sh no caso do prompt do Linux.
+
+A entrega deve ser feita a partir de um repositório novo, criado especificamente para essa atividade em seu GitHub
+
+A lista disponibilizada pelo RH está anexa a atividade.
